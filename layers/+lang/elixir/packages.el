@@ -106,7 +106,8 @@
       "cf" 'alchemist-compile-file
       "c:" 'alchemist-compile
 
-      "," 'alchemist-goto-jump-back)
+      "," 'alchemist-goto-jump-back
+      "=" 'elixir-format)
 
     (dolist (mode (list alchemist-compile-mode-map
                         alchemist-eval-mode-map
