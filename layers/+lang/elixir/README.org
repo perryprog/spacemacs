@@ -209,5 +209,5 @@ You find and overview of all the key-bindings on the [[file:alchemist-refcard.pd
 ** Formatting
 | Key Binding | Description                                        |
 |-------------+----------------------------------------------------|
-| ~SPC m =~  | Format the current buffer                          |
+| ~SPC m =~  | Format the current buffer                           |
 
