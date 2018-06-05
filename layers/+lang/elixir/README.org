@@ -204,4 +204,10 @@ You find and overview of all the key-bindings on the [[file:alchemist-refcard.pd
 | Key Binding | Description                                        |
 |-------------+----------------------------------------------------|
 | ~SPC m g g~ | Jump to the elixir expression definition at point. |
-| ~SPC m ​,​~   | Pop back to where ~SPC m g g~ was last invoked.    |
+| ~SPC m ​,​~ | Pop back to where ~SPC m g g~ was last invoked.    |
+
+** Formatting
+| Key Binding | Description                                        |
+|-------------+----------------------------------------------------|
+| ~SPC m =~  | Format the current buffer                          |
+
